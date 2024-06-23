@@ -71,10 +71,3 @@ mvn javadoc:javadoc
 ```
 
 The generated documentation will be available in the `apidocs` directory.
-
-## Additional Notes
-
-- Ensure you have Java 11 or above installed.
-- Ensure you have Maven installed and properly configured in your IDE.
-
-Enjoy exploring the different networking concepts with these exercises!
